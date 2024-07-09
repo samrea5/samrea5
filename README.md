@@ -5,7 +5,6 @@ Hi there, my name is Samuel Rea. I am a recent graudate of the University of Vir
 
 Through my time at University, I have learned that I was most excited by how data can be transformed into information to advance science and improve lives. I want to improve social circumstances and individual health through science, but through the application of data science and artificial intelligence instead of just Psychology. My interests are in machine learning, computer vision, and affective computing. I have leveraged my skills to produce projects on my github to fully explore these areas of study! below you will find my resume relevent course work and some other fun facts about myself, enjoy!
 ## Education
-
 ### University of Virginia, Charlottesville, VA
 **Bachelor of Arts in Psychology and Minor in Data Science**  
 *August 2020 – May 2024*  
@@ -31,15 +30,15 @@ Through my time at University, I have learned that I was most excited by how dat
 - Awarded Lifeguard of the Year 2020
 ---
 ## Extracurricular Activities
-### Social Chair, Sigma Alpha Mu Beta Psi Chapter
+*Social Chair, Sigma Alpha Mu Beta Psi Chapter*
 *2023 – 2024*  
 - Planned, organized, and executed large events for 2,000+ individuals
-### Housing Manager, Sigma Alpha Mu Beta Psi Chapter
+*Housing Manager, Sigma Alpha Mu Beta Psi Chapter*
 *2022 – 2023*  
 - Oversaw house inspections and coordinated major remodels
-### Member, Data Science and Analytics Club UVA
-*2023 – Present*  
-### Youth Board Member, Childhaven
+*Member, Data Science and Analytics Club UVA*
+*2023 – May 2024*  
+*Youth Board Member, Childhaven*
 *2018 – 2020*  
 - Organized winter gift drives and fundraising events
 ---
