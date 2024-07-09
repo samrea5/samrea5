@@ -11,68 +11,45 @@ Through my time at University I have learned that I was most excited by how data
 *August 2020 – May 2024*  
 - Distinctions for Research Excellence in Psychology
 - Relevant Coursework: 
-  - Research Methods and Data Analysis
-  - Applied Linear Algebra
-  - Multivariable Calculus
-  - Data Science Systems
-  - Communicating with Data
-  - Foundations of ML
-  - Machine Learning and Data Mining
-  - DS Inference and Prediction
-
+  - Research Methods and Data Analysis, Applied Linear Algebra, Multivariable Calculus, Data Science Systems, Communicating with Data, Foundations of ML, Machine Learning and Data Mining, DS Inference and Prediction
 ### Ingraham High School, Seattle, WA
 *September 2016 – June 2020*  
 - High School Diploma
 - Accelerated International Baccalaureate Diploma (advanced classes in history, literature, psychology, and biology)
 - GPA: 3.95/4.00
 - Certificate of Academic Excellence
-
 ---
-
 ## Employment
-
 ### Research Assistant for Dr. Joseph Allen
 *2021 – December 2023*  
 - Conducted longitudinal psychological research in the Kliff/Vida lab with ~220 participants to study the long-term impacts of youth psychological health on adult well-being
 - Organized and entered data from experiments to facilitate study operations and evaluation
 - Reviewed and refined SPSS code for easier data management and analysis by PhD researchers
-
 ### Lifeguard/Swim Coach
 *2016 – 2020*  
 - Guarded and taught swim lessons to children ages 1-14 for roughly 20-30 hours per week
 - Awarded Lifeguard of the Year 2020
-
 ---
-
 ## Extracurricular Activities
-
 ### Social Chair, Sigma Alpha Mu Beta Psi Chapter
 *2023 – 2024*  
 - Planned, organized, and executed large events for 2,000+ individuals
-
 ### Housing Manager, Sigma Alpha Mu Beta Psi Chapter
 *2022 – 2023*  
 - Oversaw house inspections and coordinated major remodels
-
 ### Member, Data Science and Analytics Club UVA
 *2023 – Present*  
-
 ### Youth Board Member, Childhaven
 *2018 – 2020*  
 - Organized winter gift drives and fundraising events
-
 ---
-
 ## Projects
-
 ### AI Kaggle Competition
 *Spring 2023*  
 - Developed a machine learning model for sentiment analysis of aspirin reviews
 - Technologies used: Python, NLP
-
 ### Various Data Science Projects
-- Time series analysis, image processing, data pipelines, and chatbots
-- [GitHub Portfolio](https://github.com/samrea5)
+- Explore the data science projects listed in my Github
 
 ---
 
