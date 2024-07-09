@@ -3,7 +3,7 @@
 ### About Me
 Hi there, my name is Samuel Rea. I am a recent graudate of the University of Virginia with a degree in Psychology and a minor in Data Science. Besides my passion for exploring the intracacies of Data, I'm an avide outdoorsmen with passions for climbing, mountaineering and skiing. 
 
-Through my time at University I have learned that I was most excited by how data can be transformed into information to advance science and improve lives. I want to improve social circumstances and individual health through science, but through the application of data science and artificial intelligence instead of just Psychology. My interests are in machine learning, computer vision, and affective computing. I have leveraged my skills to produce projects on my github to fully explore these areas of study! below you will find my resume relevent course work and some other fun facts about myself, enjoy!
+Through my time at University, I have learned that I was most excited by how data can be transformed into information to advance science and improve lives. I want to improve social circumstances and individual health through science, but through the application of data science and artificial intelligence instead of just Psychology. My interests are in machine learning, computer vision, and affective computing. I have leveraged my skills to produce projects on my github to fully explore these areas of study! below you will find my resume relevent course work and some other fun facts about myself, enjoy!
 ## Education
 
 ### University of Virginia, Charlottesville, VA
