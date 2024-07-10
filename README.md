@@ -30,13 +30,6 @@ Through my time at University, I have learned that I was most excited by how dat
 - Awarded Lifeguard of the Year 2020
 ---
 ## Extracurricular Activities
-**Social Chair, Sigma Alpha Mu Beta Psi Chapter**
-*2023 – 2024*  
-- Planned, organized, and executed large events for 2,000+ individuals
-
-**Housing Manager, Sigma Alpha Mu Beta Psi Chapter**
-*2022 – 2023*  
-- Oversaw house inspections and coordinated major remodels
 
 **Member, Data Science and Analytics Club UVA**
 *2023 – May 2024*  
