@@ -28,15 +28,8 @@ Through my time at University, I have learned that I was most excited by how dat
 *2016 – 2020*  
 - Guarded and taught swim lessons to children ages 1-14 for roughly 20-30 hours per week
 - Awarded Lifeguard of the Year 2020
----
-## Extracurricular Activities
 
-**Member, Data Science and Analytics Club UVA**
-*2023 – May 2024*  
 
-**Youth Board Member, Childhaven**
-*2018 – 2020*  
-- Organized winter gift drives and fundraising events
 ---
 ## Projects
 ### AI Kaggle Competition
